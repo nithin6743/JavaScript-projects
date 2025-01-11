@@ -58,7 +58,7 @@ img{
     
 }
 
-.score{
+.youscorenum,.compscorenum{
     font-size: 70px;
     font-weight: bold;
 }
